@@ -6,9 +6,9 @@
 	.st0{fill:none;stroke:#000000;stroke-width:13;stroke-miterlimit:10;}
 	.st1{fill:none;}
 	.st2{stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
-	.st3{font-family:'GoogleSans-Medium';}
+	.st3{font-family:'Google Sans Medium';}
 	.st4{font-size:83px;}
-	.st5{font-family:'GoogleSans-Bold';}
+	.st5{font-family:'Google Sans'; font-weight: bold;}
 	.st6{font-size:24px;}
 </style>
 <font horiz-adv-x="1000">
@@ -703,7 +703,8 @@
 <!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
 <font-face font-family="GoogleSans-Bold" units-per-em="1000" underline-position="-118" underline-thickness="84"/>
 <missing-glyph horiz-adv-x="590" d="M508,0l-426,0l0,716l426,0M444,60l0,596l-298,0l0,-596z"/>
-<glyph unicode="" horiz-adv-x="0"/>
+<glyph unicode="
+" horiz-adv-x="0"/>
 <glyph unicode=" " horiz-adv-x="234"/>
 <glyph unicode="A" horiz-adv-x="722" d="M283,716l155,0l269,-716l-149,0l-60,171l-274,0l-60,-171l-149,0M454,295l-63,180l-26,86l-8,0l-26,-86l-64,-180z"/>
 <glyph unicode="&#xC1;" horiz-adv-x="722" d="M283,716l155,0l269,-716l-149,0l-60,171l-274,0l-60,-171l-149,0M454,295l-63,180l-26,86l-8,0l-26,-86l-64,-180M350,908l153,0l-90,-136l-105,0z"/>
